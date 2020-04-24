@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to the second slide!"
 ---
-Your text
+Yanderes are bad for your health!
 Use the left arrow to go back!
